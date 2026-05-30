@@ -2,6 +2,7 @@
   "name": "smatech-backend",
   "version": "1.0.0",
   "scripts": {
+    "build": "npm install",
     "start": "node src/index.js"
   },
   "dependencies": {
